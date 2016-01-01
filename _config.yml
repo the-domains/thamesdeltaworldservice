@@ -1,28 +1,40 @@
-name: thamesdeltaworldservice
 favicon: null
-layout_spectrum: 0.70793
-typography_spectrum: 0.52153
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: thamesdeltaworldservice
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2689713
+  brandStrength: 0.375
+  lightness: 0.3566611
   brandColors:
     - '#000000'
     - '#565656'
     - '#e5e5e5'
     - '#71943d'
     - '#daa35c'
-  brandStrength: 0.375
-  lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 0.8232177931349725
-purpose: []
+  rhythmicContrast: 0.8232178
+typography_spectrum: 0.891231
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
