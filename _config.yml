@@ -1,7 +1,7 @@
 name: thamesdeltaworldservice
 favicon: null
-layout_spectrum: 0.13363682734780014
-typography_spectrum: 0.08396825334057212
+layout_spectrum: 0.70793
+typography_spectrum: 0.52153
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.1261055050417781
-  lightness: 0.22373309219256043
-  saturation: 0.1504963943734765
+    - '#000000'
+    - '#565656'
+    - '#e5e5e5'
+    - '#71943d'
+    - '#daa35c'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.8232177931349725
 purpose: []
