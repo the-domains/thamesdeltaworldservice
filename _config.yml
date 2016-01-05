@@ -1,6 +1,6 @@
 name: thamesdeltaworldservice
 favicon: null
-layout_spectrum: 0.1762226
+layout_spectrum: 0
 typography_spectrum: 0.24499
 collections:
   - index:
@@ -36,6 +36,6 @@ color:
     - '#daa35c'
   brandStrength: 0.8456998
   lightness: 0.3566611
-  saturation: 0.2689713
+  saturation: 0.1875
   rhythmicContrast: 0.8232178
 purpose: []
