@@ -1,7 +1,7 @@
 name: thamesdeltaworldservice
 favicon: null
 layout_spectrum: 0.1762226
-typography_spectrum: 0
+typography_spectrum: 0.24499
 collections:
   - index:
       path: /
