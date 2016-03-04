@@ -1,41 +1,41 @@
-name: thamesdeltaworldservice
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.49818
+title: Thames Delta World Service
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Thames Delta World Service
+color:
+  saturation: 0.5202361
+  brandStrength: 0.8456998
+  lightness: 0.6956155
+  brandColors:
+    - '#391502'
+    - '#FCFA91'
+    - '#C7BC4B'
+    - '#A2A3C6'
+    - '#77651F'
+  rhythmicContrast: 0.8827993
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: thamesdeltaworldservice
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#565656'
-    - '#e5e5e5'
-    - '#71943d'
-    - '#daa35c'
-  brandStrength: 0.8456998
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.2150084
+layout_spectrum: 1
