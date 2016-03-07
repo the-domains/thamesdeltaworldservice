@@ -6,243 +6,36 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'previously published at http://thamesdeltaworldservice.blogspot.co.uk/ '
-datePublished: '2016-03-07T10:10:03.406Z'
-dateModified: '2016-03-04T20:32:29.705Z'
+datePublished: '2016-03-07T11:08:46.200Z'
+dateModified: '2016-03-07T11:04:17.971Z'
 title: "If you read my writings on ‘The Next Day’ you’ll know I lavished praise on it. Nearly three years later I’m pleased to say that I feel the same. Though Bowies albums around the turn of the century improved on his output of the previous 10 years there was still little that could sit with the best of his past musical achievements, ‘Reality’ was getting there but then sadly a huge 10 years of nowt. ‘TND’ was and is for me the first album since ‘Scary Monsters’ that could be referred to as timeless Bowie. I loved it and I still do. The point is, the praise I heaped on it was not blind praise, I genuinely welcomed ‘TND’ as the album I’d been waiting years for. It wasn’t without fault, the marketing was cynical (inspired in the beginning, but a deluxe edition 9 months on?) and the bonus tracks were not in any way essential. A year ago, ‘Sue (Or In A Season Of Crime)’ hit and blew me away even more. Everything about it was unexpected and it promised so much for a future from David Bowie if he wanted to continue with music that is, who knew?‘★/Blackstar’ the song takes that and delivers much more, with bells on. Its way more out there than ‘Sue’, longer, stranger, more questioning. Though lifting some of the musicians from ‘Sue’ it could not be called jazz in any way. It’s closer to modern prog, think ‘Paranoid Android’ shifting song structures mixed with electro dabbling’s and a fantastic vocal, hard to decipher lyrics and a sense of wonder that jumps straight out from the performers into the listeners ears. It’s a new Bowie, yet you can’t listen to Bowie without referencing his past. For me, I got bits of ‘Diamond Dogs’, if not musically then in that there is a crushingly strong concept running through the song and the accompanying video, which I also think is marvellous. Having said that, the little dabs of colour and musical fills and supremely placed snippets also make me think of ‘Diamond Dogs’.\_The placement of a jewel encrusted skeletal astronaut early on in the video must have knowingly been placed in the knowledge that people would think and ask ‘Is this Bowie killing off Major Tom for once and for all, a defiant “I’m never going back” for the world to take in and understand’. That message is in ‘★/Blackstar’ but for me in the music not the visuals. I’d like to think that it’s not Major Tom in the video as the depiction is literally too simplistic, but then maybe we’re all over analysing it, maybe that is the message of ‘★/Blackstar’, I’m still here, making music, on my own terms, not looking back anymore, no more hits tours. Bowie even sings ‘Something happened on the day he died, Spirit rose a metre and stepped aside, Somebody else took his place, and bravely cried, (I’m a blackstar, I’m a blackstar)’. If Bowie ever does return to the concert stage I’m pretty sure it’ll be more of a Kate Bush production type job than a straightforward rock band hits show. So in conclusion, I love it, best thing I’ve heard all year, no sycophancy here at all.Anyway, we also know the album contains just seven songs. Aside from ‘★/Blackstar’; ‘Sue’ and it’s originally underwhelming demo B-side ‘Tis A Pity She Was A Whore’ are both present, albeit in totally new re-recorded form. This means that if no more tracks are made available (highly unlikely?) between now and Jan 8th then we’ll (only) get four new Bowie songs to sink our teeth into, for me that’s a disappointment, however if the quality is of the title track then it’ll be hard to stay disappointed."
 author: []
 sourcePath: _posts/2016-01-01-so-by-now-anyone-whos-interested-will-know-that-david-bowi.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 url: if-you-read-my-writings-on-the-next-day-youll-know-i-lavi/index.html
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bacb073-076a-4bc2-a2f5-d47cadbfdd12.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bacb073-076a-4bc2-a2f5-d47cadbfdd12.JPG)
 
 So by now, anyone who's interested will know that David Bowies new album, '★/Blackstar', will be released on Jan 8th 2016, the day of Bowies 69th birthday. You'll have also seen the video and heard the heard the title track by now. As someone who commented massively on 'The Next Day' and all its contents I feel I'm a little late off the mark this time round. Apologies, I've been away and have had no PC access. However, a little more is known now than the day the single first landed. The artwork for the album is out there, and thanks to subscriber copies of music monthlies the track listing is now known and reviews have been written and read. So I'm not going to rephrase album reviews or anything, just offer my opinion of what we've heard, and help publicise what we know.
 
-# 
-
-If you read my writings on 'The Next Day' you'll know I lavished praise on it. Nearly three years later I'm pleased to say that I feel the same. Though Bowies albums around the turn of the century improved on his output of the previous 10 years there was still little that could sit with the best of his past musical achievements, 'Reality' was getting there but then sadly a huge 10 years of nowt. 'TND' was and is for me the first album since 'Scary Monsters' that could be referred to as timeless Bowie. I loved it and I still do. The point is, the praise I heaped on it was not blind praise, I genuinely welcomed 'TND' as the album I'd been waiting years for. It wasn't without fault, the marketing was cynical (inspired in the beginning, but a deluxe edition 9 months on?) and the bonus tracks were not in any way essential. A year ago, 'Sue (Or In A Season Of Crime)' hit and blew me away even more. Everything about it was unexpected and it promised so much for a future from David Bowie if he wanted to continue with music that is, who knew?'★/Blackstar' the song takes that and delivers much more, with bells on. Its way more out there than 'Sue', longer, stranger, more questioning. Though lifting some of the musicians from 'Sue' it could not be called jazz in any way. It's closer to modern prog, think 'Paranoid Android' shifting song structures mixed with electro dabbling's and a fantastic vocal, hard to decipher lyrics and a sense of wonder that jumps straight out from the performers into the listeners ears. It's a new Bowie, yet you can't listen to Bowie without referencing his past. For me, I got bits of 'Diamond Dogs', if not musically then in that there is a crushingly strong concept running through the song and the accompanying video, which I also think is marvellous. Having said that, the little dabs of colour and musical fills and supremely placed snippets also make me think of 'Diamond Dogs'. The placement of a jewel encrusted skeletal astronaut early on in the video must have knowingly been placed in the knowledge that people would think and ask 'Is this Bowie killing off Major Tom for once and for all, a defiant "I'm never going back" for the world to take in and understand'. That message is in '★/Blackstar' but for me in the music not the visuals. I'd like to think that it's not Major Tom in the video as the depiction is literally too simplistic, but then maybe we're all over analysing it, maybe that is the message of '★/Blackstar', I'm still here, making music, on my own terms, not looking back anymore, no more hits tours. Bowie even sings 'Something happened on the day he died, Spirit rose a metre and stepped aside, Somebody else took his place, and bravely cried, (I'm a blackstar, I'm a blackstar)'. If Bowie ever does return to the concert stage I'm pretty sure it'll be more of a Kate Bush production type job than a straightforward rock band hits show. So in conclusion, I love it, best thing I've heard all year, no sycophancy here at all.Anyway, we also know the album contains just seven songs. Aside from '★/Blackstar'; 'Sue' and it's originally underwhelming demo B-side 'Tis A Pity She Was A Whore' are both present, albeit in totally new re-recorded form. This means that if no more tracks are made available (highly unlikely?) between now and Jan 8th then we'll (only) get four new Bowie songs to sink our teeth into, for me that's a disappointment, however if the quality is of the title track then it'll be hard to stay disappointed.
+# If you read my writings on 'The Next Day' you'll know I lavished praise on it. Nearly three years later I'm pleased to say that I feel the same. Though Bowies albums around the turn of the century improved on his output of the previous 10 years there was still little that could sit with the best of his past musical achievements, 'Reality' was getting there but then sadly a huge 10 years of nowt. 'TND' was and is for me the first album since 'Scary Monsters' that could be referred to as timeless Bowie. I loved it and I still do. The point is, the praise I heaped on it was not blind praise, I genuinely welcomed 'TND' as the album I'd been waiting years for. It wasn't without fault, the marketing was cynical (inspired in the beginning, but a deluxe edition 9 months on?) and the bonus tracks were not in any way essential. A year ago, 'Sue (Or In A Season Of Crime)' hit and blew me away even more. Everything about it was unexpected and it promised so much for a future from David Bowie if he wanted to continue with music that is, who knew?'★/Blackstar' the song takes that and delivers much more, with bells on. Its way more out there than 'Sue', longer, stranger, more questioning. Though lifting some of the musicians from 'Sue' it could not be called jazz in any way. It's closer to modern prog, think 'Paranoid Android' shifting song structures mixed with electro dabbling's and a fantastic vocal, hard to decipher lyrics and a sense of wonder that jumps straight out from the performers into the listeners ears. It's a new Bowie, yet you can't listen to Bowie without referencing his past. For me, I got bits of 'Diamond Dogs', if not musically then in that there is a crushingly strong concept running through the song and the accompanying video, which I also think is marvellous. Having said that, the little dabs of colour and musical fills and supremely placed snippets also make me think of 'Diamond Dogs'. The placement of a jewel encrusted skeletal astronaut early on in the video must have knowingly been placed in the knowledge that people would think and ask 'Is this Bowie killing off Major Tom for once and for all, a defiant "I'm never going back" for the world to take in and understand'. That message is in '★/Blackstar' but for me in the music not the visuals. I'd like to think that it's not Major Tom in the video as the depiction is literally too simplistic, but then maybe we're all over analysing it, maybe that is the message of '★/Blackstar', I'm still here, making music, on my own terms, not looking back anymore, no more hits tours. Bowie even sings 'Something happened on the day he died, Spirit rose a metre and stepped aside, Somebody else took his place, and bravely cried, (I'm a blackstar, I'm a blackstar)'. If Bowie ever does return to the concert stage I'm pretty sure it'll be more of a Kate Bush production type job than a straightforward rock band hits show. So in conclusion, I love it, best thing I've heard all year, no sycophancy here at all.Anyway, we also know the album contains just seven songs. Aside from '★/Blackstar'; 'Sue' and it's originally underwhelming demo B-side 'Tis A Pity She Was A Whore' are both present, albeit in totally new re-recorded form. This means that if no more tracks are made available (highly unlikely?) between now and Jan 8th then we'll (only) get four new Bowie songs to sink our teeth into, for me that's a disappointment, however if the quality is of the title track then it'll be hard to stay disappointed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2369ad81-2311-4bcd-b9d9-4c8412b9bfdf.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb27fef1-c740-481a-bd39-5ffac6d3185b.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb55f8cd-4323-4fd7-9d3a-8fbd836d96a7.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb98ba75-2c05-440b-947b-cc88abdf12a5.JPG)
 
-# 
-
-This is '★/Blackstar' full track listing. 
-
-1 ★/Blackstar 
-
-2 'Tis A Pity She Was A Whore 
-
-3 Lazarus 
-
-4 Sue (Or In A Season Of Crime) 
-
-5 Girl Loves Me 
-
-6 Dollar Days 
-
-7 I Can't Give Everything Away 
-
-Here are the lyrics (freely available on t'web, lifted here from davidbowie.com) for the song '★/Blackstar' 
-
-IN THE VILLA OF ORMEN 
-
-IN THE VILLA OF ORMEN 
-
-STANDS A SOLITARY CANDLE 
-
-AH AH AH AH 
-
-IN THE CENTRE OF IT ALL 
-
-IN THE CENTRE OF IT ALL 
-
-YOUR EYES 
-
-ON THE DAY OF EXECUTION 
-
-ON THE DAY OF EXECUTION 
-
-ONLY WOMEN KNEEL AND SMILE 
-
-AH AH AH AH 
-
-AT THE CENTRE OF IT ALL 
-
-AT THE CENTRE OF IT ALL 
-
+# This is '★/Blackstar' full track listing. 1 ★/Blackstar 2 'Tis A Pity She Was A Whore 3 Lazarus 4 Sue (Or In A Season Of Crime) 5 Girl Loves Me 6 Dollar Days 7 I Can't Give Everything Away Here are the lyrics (freely available on t'web, lifted here from davidbowie.com) for the song '★/Blackstar' IN THE VILLA OF ORMEN IN THE VILLA OF ORMEN STANDS A SOLITARY CANDLE AH AH AH AH IN THE CENTRE OF IT ALL IN THE CENTRE OF IT ALL YOUR EYES ON THE DAY OF EXECUTION ON THE DAY OF EXECUTION ONLY WOMEN KNEEL AND SMILE AH AH AH AH AT THE CENTRE OF IT ALL AT THE CENTRE OF IT ALL YOUR EYES
+YOUR EYES AH AH AH
+AH AH AH IN THE VILLA OF ORMEN IN THE VILLA OF ORMEN STANDS A SOLITARY CANDLE AH AH AH AH AT THE CENTRE OF IT ALL AT THE CENTRE OF IT ALL YOUR EYES
 YOUR EYES
-YOUR EYES 
-
-AH AH AH
-AH AH AH 
-
-IN THE VILLA OF ORMEN 
-
-IN THE VILLA OF ORMEN 
-
-STANDS A SOLITARY CANDLE 
-
-AH AH AH AH 
-
-AT THE CENTRE OF IT ALL 
-
-AT THE CENTRE OF IT ALL 
-
-YOUR EYES
-YOUR EYES
-AH AH AH 
-
-OO OO OO OO 
-
-OOO 
-
-OO OO OO OO 
-
-OOO 
-
-OO OO OO OO 
-
-SOMETHING HAPPENED ON THE DAY HE DIED 
-
-SPIRIT ROSE A METRE THEN STEPPED ASIDE 
-
-SOMEBODY ELSE TOOK HIS PLACE AND BRAVELY CRIED: 
-
-I'M A BLACKSTAR 
-
-I'M A BLACKSTAR 
-
-HOW MANY TIMES DOES AN ANGEL FALL? 
-
-HOW MANY PEOPLE LIE INSTEAD OF TALKING TALL? 
-
-HE TROD ON SACRED GROUND 
-
-HE CRIED ALOUD INTO THE CROWD 
-
-I'M A BLACKSTAR 
-
-I'M A BLACKSTAR 
-
-I'M NOT A GANGSTAR 
-
-I CAN'T ANSWER WHY 
-
-I'M A BLACKSTAR 
-
-JUST GO WITH ME 
-
-I'M NOT A FILMSTAR 
-
-IMMA TAKE YOU HOME 
-
-I'M A BLACKSTAR 
-
-TAKE YOUR PASSPORT AND SHOES 
-
-I'M NOT A POPSTAR 
-
-AND YOUR SEDATIVES BOO 
-
-I'M A BLACKSTAR 
-
-YOU'RE THE FLASH IN THE PAN 
-
-I'M NOT A MARVELSTAR 
-
-I'M THE GREAT I AM 
-
-I'M A BLACKSTAR 
-
-I'M A BLACKSTAR I'M WAY UP, ON MONEY, I'VE GOT GAME 
-
-I SEE RIGHT, SO WIDE, SO OPEN-HEARTED PAIN 
-
-I WANT EAGLES IN MY DAYDREAMS, DIAMONDS IN MY EYES 
-
-I'M A BLACKSTAR 
-
-I'M A BLACKSTAR 
-
-SOMETHING HAPPENED ON THE DAY HE DIED 
-
-SPIRIT ROSE A METRE THEN STEPPED ASIDE 
-
-SOMEBODY ELSE TOOK HIS PLACE AND BRAVELY CRIED: 
-
-I'M A BLACKSTAR 
-
-I'M A STARSTAR 
-
-I'M A BLACKSTAR 
-
-I CAN'T ANSWER WHY 
-
-I'M NOT A GANGSTAR 
-
-BUT I CAN TELL YOU HOW 
-
-I'M NOT A FLAMSTAR 
-
-WE WERE BORN UPSIDE DOWN 
-
-I'M A STARS STAR 
-
-BORN THE WRONG WAY ROUND 
-
-I'M NOT A WHITESTAR 
-
-I'M A BLACKSTAR 
-
-OO OO OO OO 
-
-I'M NOT A GANGSTAR 
-
-I'M A BLACKSTAR 
-
-I'M A BLACKSTAR 
-
-OO OO OO OO 
-
-I'M NOT A PORNSTAR 
-
-I'M NOT A WANDERING STAR 
-
-OO OO OO OO
-I'M A BLACKSTAR 
-
-I'M A BLACKSTAR 
-
-IN THE VILLA OF ORMEN 
-
-STANDS A SOLITARY CANDLE 
-
-AH AH AH AH 
-
-AT THE CENTRE OF IT ALL 
-
-YOUR EYES 
-
-ON THE DAY OF EXECUTION 
-
-ONLY WOMEN KNEEL AND SMILE 
-
-AH AH AH AH 
-
-AT THE CENTRE OF IT ALL 
-
-YOUR EYES 
-
-YOUR EYES 
-
-AH AH AH
+AH AH AH OO OO OO OO OOO OO OO OO OO OOO OO OO OO OO SOMETHING HAPPENED ON THE DAY HE DIED SPIRIT ROSE A METRE THEN STEPPED ASIDE SOMEBODY ELSE TOOK HIS PLACE AND BRAVELY CRIED: I'M A BLACKSTAR I'M A BLACKSTAR HOW MANY TIMES DOES AN ANGEL FALL? HOW MANY PEOPLE LIE INSTEAD OF TALKING TALL? HE TROD ON SACRED GROUND HE CRIED ALOUD INTO THE CROWD I'M A BLACKSTAR I'M A BLACKSTAR I'M NOT A GANGSTAR I CAN'T ANSWER WHY I'M A BLACKSTAR JUST GO WITH ME I'M NOT A FILMSTAR IMMA TAKE YOU HOME I'M A BLACKSTAR TAKE YOUR PASSPORT AND SHOES I'M NOT A POPSTAR AND YOUR SEDATIVES BOO I'M A BLACKSTAR YOU'RE THE FLASH IN THE PAN I'M NOT A MARVELSTAR I'M THE GREAT I AM I'M A BLACKSTAR I'M A BLACKSTAR I'M WAY UP, ON MONEY, I'VE GOT GAME I SEE RIGHT, SO WIDE, SO OPEN-HEARTED PAIN I WANT EAGLES IN MY DAYDREAMS, DIAMONDS IN MY EYES I'M A BLACKSTAR I'M A BLACKSTAR SOMETHING HAPPENED ON THE DAY HE DIED SPIRIT ROSE A METRE THEN STEPPED ASIDE SOMEBODY ELSE TOOK HIS PLACE AND BRAVELY CRIED: I'M A BLACKSTAR I'M A STARSTAR I'M A BLACKSTAR I CAN'T ANSWER WHY I'M NOT A GANGSTAR BUT I CAN TELL YOU HOW I'M NOT A FLAMSTAR WE WERE BORN UPSIDE DOWN I'M A STARS STAR BORN THE WRONG WAY ROUND I'M NOT A WHITESTAR I'M A BLACKSTAR OO OO OO OO I'M NOT A GANGSTAR I'M A BLACKSTAR I'M A BLACKSTAR OO OO OO OO 
+I'M NOT A PORNSTAR I'M NOT A WANDERING STAR OO OO OO OO
+I'M A BLACKSTAR I'M A BLACKSTAR  IN THE VILLA OF ORMEN STANDS A SOLITARY CANDLE AH AH AH AH AT THE CENTRE OF IT ALL YOUR EYES  ON THE DAY OF EXECUTION ONLY WOMEN KNEEL AND SMILE AH AH AH AH AT THE CENTRE OF IT ALL YOUR EYES YOUR EYES  AH AH AH
