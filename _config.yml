@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5202361
+  saturation: 0.9987469
   brandStrength: 0.8456998
-  lightness: 0.6956155
+  lightness: 0.1923559
   brandColors:
-    - '#391502'
-    - '#FCFA91'
-    - '#C7BC4B'
-    - '#A2A3C6'
-    - '#77651F'
-  rhythmicContrast: 0.8827993
+    - '#290B01'
+    - '#BDB146'
+    - '#F1EE87'
+    - '#717B17'
+    - '#6460A5'
+  rhythmicContrast: 0.9862155
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: thamesdeltaworldservice
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2150084
-layout_spectrum: 1
+typography_spectrum: 0.3082707
+layout_spectrum: 0.2192982
